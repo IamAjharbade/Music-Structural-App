@@ -19,18 +19,16 @@ public class HindiSongs extends AppCompatActivity {
 
 
         //list of songs
-        Songs.add(new Song("Love Me Like You Do",  " Ellie Goulding",R.drawable.english_song1));
-        Songs.add(new Song("See You Again",  " Wiz Khalifa",R.drawable.en));
-        Songs.add(new Song("Perfect",  " Ed Sheeran",R.drawable.english_song3));
-        Songs.add(new Song("Shape of You",  " Ed Sheeran",R.drawable.english_song4));
-        Songs.add(new Song("I Got You",  " Bebe Rexha",R.drawable.english_song5));
-        Songs.add(new Song("Sorry",  " Justin Bieb",R.drawable.english_song6));
-        Songs.add(new Song("Thinking Out Loud",  "  Ed Sheeran",R.drawable.english_song7));
-        Songs.add(new Song("Let Me Love You",  "DJ Snake",R.drawable.english_song8));
-        Songs.add(new Song("Closer",  " The Chainsmokers",R.drawable.english_song9));
-        Songs.add(new Song("Girls like You",  "Maroon",R.drawable.images));
-
-
+        Songs.add(new Song("Tujhe Kitna Chahne Lage",  " Arijit Singh",R.drawable.hindi1));
+        Songs.add(new Song("Pal",  " Arijit Singh",R.drawable.hindi2));
+        Songs.add(new Song("Duniya",  "Akhil & Dhavani",R.drawable.hindi3));
+        Songs.add(new Song(" Main Rahoon Ya Na Rahoon",  "Armaan Malik",R.drawable.hindi4));
+        Songs.add(new Song(" Main Tera Ho Gaya",  "  Millind Gaba",R.drawable.hindi5));
+        Songs.add(new Song("Kahin To hogi Woh",  "A.R. Rahman",R.drawable.hindi6));
+        Songs.add(new Song("Bekhayali",  " Arijit Singh",R.drawable.hindi7));
+        Songs.add(new Song("Phir Bhi Tumko Chaahunga",  "Arijit Singh",R.drawable.hindi8));
+        Songs.add(new Song("Tu Dua hai ",  "Darsan Raval",R.drawable.hindi9));
+        Songs.add(new Song("Darasal",  "Atif Aslam",R.drawable.hindi10));
 
 
 
