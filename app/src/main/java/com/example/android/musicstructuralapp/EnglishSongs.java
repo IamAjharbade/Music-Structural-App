@@ -2,6 +2,7 @@ package com.example.android.musicstructuralapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ListView;
 
@@ -29,8 +30,6 @@ public class EnglishSongs extends AppCompatActivity {
         Songs.add(new Song("Let Me Love You",  "DJ Snake",R.drawable.english_song8));
         Songs.add(new Song("Closer",  " The Chainsmokers",R.drawable.english_song9));
         Songs.add(new Song("Girls like You",  "Maroon",R.drawable.images));
-
-
 
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The

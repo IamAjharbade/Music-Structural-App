@@ -62,7 +62,6 @@ public class SongAdapter extends ArrayAdapter<Song> {
         // set the image to iconView
         iconView.setImageResource(currentSong.getImageResourceId());
 
-
         // Set the theme color for the list item
         View textContainer = listItemView.findViewById(R.id.text_container);
         // Find the color that the resource ID maps to
